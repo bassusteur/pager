@@ -1,1 +1,1 @@
-to do: write readme
+This is my idea of a pager i'm working on, will feature: ESP32-C6, WiFi, Zigbee, a serial port (yes a 12V serial port you can interface with computers), buttons, big LCD, 18650 battery power with all the power management dedicated to that.
